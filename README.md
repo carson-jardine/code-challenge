@@ -10,7 +10,7 @@ This Ruby project uses Nokogiri to parse HTML and RSpec for testing.
 
 ## How to Run
 
-- Clone the repository `git clone {repo link}`
+- Clone the repository using `SSH`: `git clone git@github.com:carson-jardine/code-challenge.git`
 - Install gems with `bundle install`
 - Run tests with `rspec` or `bundle exec rspec` or `rspec spec/main_spec.rb`
 - Debug results by adding `binding.pry` to areas of interest and rerunning tests
