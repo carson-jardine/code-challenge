@@ -14,3 +14,7 @@ This Ruby project uses Nokogiri to parse HTML and RSpec for testing.
 - Install gems with `bundle install`
 - Run tests with `rspec` or `bundle exec rspec` or `rspec spec/main_spec.rb`
 - Debug results by adding `binding.pry` to areas of interest and rerunning tests
+
+## Notes
+
+This is the first time I've used Ruby in this way and it was definitely a challenge! Especially when it came to finding and parsing the thumbnail images. Overall, it was an enjoyable project where I learned a lot. Thank you for taking the time to review my work, I hope you have a great day!
